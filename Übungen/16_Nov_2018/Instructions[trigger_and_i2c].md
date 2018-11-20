@@ -25,3 +25,11 @@ Figure out how to use I2C 2 lines display
 * Open Arduino file and install LuquidCrystal library
 * Open up the library and try out the example projects
 * Change code and try owne code 
+
+
+## Temperature Sensor DS18B20 remote data
+The task was to show the temperature of a DS18B20 sensor on a webserver.
+There is a great tutorial on this page [Tutorial](https://randomnerdtutorials.com/esp8266-ds18b20-temperature-sensor-web-server-with-arduino-ide/)
+[Link to our used arduino file](https://github.com/Witzeneder/IoT/blob/master/%C3%9Cbungen/16_Nov_2018/temperaturesensor/temperatursensor.ino)
+###### Problems
+* you need to download the OneWire and DallasTemperature Libraries and install them. 
