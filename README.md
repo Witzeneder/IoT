@@ -2,10 +2,10 @@
 Repo for IoT lecture
 
 Project Partners: 
-Jakob Spirk
-Valentin Witzeneder
+* Jakob Spirk
+* Valentin Witzeneder
 
 
 --- 
 
-Übungen werden immer nur von einer Person hochgeladen und finden sich im Ordner Übungen mit dem entsprechenden Datum der Übung!
+Exercises are always uploaded by one person and can be found in the Exercises folder with the corresponding date of the exercise!
