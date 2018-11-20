@@ -2,6 +2,7 @@
 ## Vorlesung
 ### Vorlesung 1
 [Vorlesung 1 Link](https://github.com/Witzeneder/IoT/blob/master/Vorlesung/Jakob/Vorlesung1.md)
+
 Eine sehr ungewöhnliche Art der Vorlesung, aber im positiven Sinne. Da viel Interaktion mit den Studenten stattfindet und die Vorlesung sehr abwechslungsreich ist schläft man nicht ein!
 
 #### Notes:
@@ -12,6 +13,7 @@ Eine sehr ungewöhnliche Art der Vorlesung, aber im positiven Sinne. Da viel Int
 
 ### Vorlesung 3
 [Vorlesung 3 Link](https://github.com/Witzeneder/IoT/blob/master/Vorlesung/Jakob/Vorlesung3.md)
+
 Meiner Meinung nach sind die Aufgaben zu knapp gesetzt. Oft ist kein richtiges Recherchieren möglich. 
 ## Lab
 ### Lab 1
