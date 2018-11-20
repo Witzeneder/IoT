@@ -32,9 +32,6 @@ Figure out how to use I2C 2 lines display
 ###### Problems
 * Problems with connecting the I2C board properly - got a useful advice from another group [Julia Hauptmann and Nikolaus Hofer]
 
-## Temperature measurement
-Get remote data from DS11 onewire temperature device
-
 ## Temperature Sensor DS18B20 remote data
 The task was to show the temperature of a DS18B20 sensor on a webserver.
 There is a great tutorial on this page [Tutorial](https://randomnerdtutorials.com/esp8266-ds18b20-temperature-sensor-web-server-with-arduino-ide/)
