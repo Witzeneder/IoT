@@ -1,12 +1,4 @@
 # Vorlesung 1, 15.11.2018  
-Eine sehr ungewöhnliche Art der Vorlesung, aber im positiven Sinne. Da viel Interaktion mit den Studenten stattfindet und die Vorlesung sehr abwechslungsreich ist schläft man nicht ein!
-
-## Notes:
-* wir haben keine klausur aber 2 projekte und ein portfolio auf github zu führen
-* 10% extra work um eine 1 zu bekommen
-* Anmelden bei Matrix chatroom ulnoiot
-* Nach einem Markdown cheatsheet für github suchen
-
 ## Aufgaben in der Vorlesung:
 
 ### Who are you?
