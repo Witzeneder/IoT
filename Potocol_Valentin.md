@@ -4,7 +4,7 @@
 First day of lecture
 
 ###### Lecture
-    [Lecture Link](https://github.com/Witzeneder/IoT/tree/master/Vorlesung/Valentin/Vorlesung%201)
+    [Lecture Link](https://github.com/Witzeneder/IoT/blob/master/Vorlesung/Valentin/Vorlesung%201/Lecture.md)
 
 The lecture started of with a basic overview of IoT and we discussed our personal experience surrounding IoT. I immediately got the feeling that this lecture won't be like the lecture we had before during the bachelor program. But I really liked the style and the self learning part, which leads to a better understanding in the end. At the end of the lecture I was surprised of the immense number of use cases in IoT.
 
