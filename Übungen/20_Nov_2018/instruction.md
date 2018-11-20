@@ -12,3 +12,11 @@ Open the Copper extension and enter the correct ip of the arduino and "/light" a
 #### Problems:
 * Chrome extension installation - first read then work, not the other way!
 * when connecting with Copper 4CR dont forgot the /light in the link and was wondering why it didnt work. There are no error messages.
+
+
+## MQTT
+
+* Install the mqtt.fx on the laptop and start it
+* Go to settings and change the Broker Address to the raspberry pi Address [ours was 192.168.12.1] and press apply
+* Click on 'Connect' and subscribe to the 'home/garden/fountain' channel
+* Now you can write under the 'Publish' section
