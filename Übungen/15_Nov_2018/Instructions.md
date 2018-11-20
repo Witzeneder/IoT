@@ -25,7 +25,7 @@ First exercise - Jakob Spirk and Valentin Witzeneder
 
   * Open Arduino IDE and use the “Blink” application which is predefined [File -> Examples -> Basic -> Blink]
 
-    [BLINK - CODE](https://github.com/Witzeneder/IoT/blob/master/Übungen/15_Nov_2018/blink.ino)
+    [BLINK - CODE](https://github.com/Witzeneder/IoT/blob/master/Übungen/15_Nov_2018/blink/blink.ino)
 
   * Connect Arduino to laptop
 
@@ -44,6 +44,6 @@ First exercise - Jakob Spirk and Valentin Witzeneder
 
   * Open Arduino IDE and write application which searches for and connects to specified WiFi (the one we created with the Raspberry Pi)
 
-      [REMOTE TRIGGER CODE](https://github.com/Witzeneder/IoT/blob/master/Übungen/15_Nov_2018/wifi.ino)
+      [REMOTE TRIGGER CODE](https://github.com/Witzeneder/IoT/blob/master/Übungen/15_Nov_2018/wifi/wifi.ino)
 
   * Application is able to trigger the blinking of the Arduino Board remotely

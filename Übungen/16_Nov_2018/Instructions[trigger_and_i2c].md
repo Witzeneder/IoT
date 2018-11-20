@@ -18,10 +18,21 @@ Create Button Device, which triggers via HTTP Post to IFTTT WebHook → then tri
 * Board wasn't properly working, wouldn't flash correctly -> Solved by professor
 * HTTPS wasn't working so used HTTP request instead
 
+[Webhook Link](https://github.com/Witzeneder/IoT/blob/master/Übungen/16_Nov_2018/trigger/trigger.ino)
 
 ## I2C 2 lines display
 Figure out how to use I2C 2 lines display
 
 * Open Arduino file and install LuquidCrystal library
 * Open up the library and try out the example projects
-* Change code and try owne code 
+* Change code and try own code
+
+[Display Link](https://github.com/Witzeneder/IoT/blob/master/Übungen/16_Nov_2018/I2C/I2C.ino)
+
+###### Problems
+* Problems with connecting the I2C board properly - got a useful advice from another group [Julia Hauptmann and Nikolaus Hofer]
+
+## Temperature measurement
+Get remote data from DS11 onewire temperature device
+
+*
