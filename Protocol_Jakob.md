@@ -15,6 +15,10 @@ Eine sehr ungewöhnliche Art der Vorlesung, aber im positiven Sinne. Da viel Int
 [Vorlesung 3 Link](https://github.com/Witzeneder/IoT/blob/master/Vorlesung/Jakob/Vorlesung3.md)
 
 Meiner Meinung nach sind die Aufgaben zu knapp gesetzt. Oft ist kein richtiges Recherchieren möglich. 
+
+### Vorlesung 4
+[Vorlesung 4 Link](https://github.com/Witzeneder/IoT/blob/master/Vorlesung/Jakob/Vorlesung4.md)
+Sehr spannend, wir haben uns ein wenig die IoT frameworks angeschaut, etwas zu wenig Zeit zum Recherchieren. Besser nur ein Framework.
 ## Lab
 ### Lab 1
 [Lab 1 Link](https://github.com/Witzeneder/IoT/tree/master/%C3%9Cbungen/15_Nov_2018)
