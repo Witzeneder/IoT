@@ -1,5 +1,9 @@
 # Vorlesung 5, 22.11.2018
 
+## Guest Dr. Ruben Jubeh
+Question:
+* is this conecpt used by companies aswell?
+
 ## How can we toggle in Node-RED?
 Use a function and store the state.
 ```javascript
@@ -31,3 +35,7 @@ Move switch from Admin to test group
 * GUI
 * integrated devices
 * testing
+
+Featurs form UlnoIoT i am missing:
+* documentation?
+ulnoIoT has 2 features i would like to see in an IoT Framework. -> 66,6% 
