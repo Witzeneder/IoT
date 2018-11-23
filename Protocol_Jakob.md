@@ -19,6 +19,12 @@ Meiner Meinung nach sind die Aufgaben zu knapp gesetzt. Oft ist kein richtiges R
 ### Vorlesung 4
 [Vorlesung 4 Link](https://github.com/Witzeneder/IoT/blob/master/Vorlesung/Jakob/Vorlesung4.md)
 Sehr spannend, wir haben uns ein wenig die IoT frameworks angeschaut, etwas zu wenig Zeit zum Recherchieren. Besser nur ein Framework.
+
+### Vorlesung 5
+[Vorlesung 5 Link](https://github.com/Witzeneder/IoT/blob/master/Vorlesung/Jakob/Vorlesung5.md)
+Interessanter Vortrag, bisschen zu wenig erklärt um was es genau geht bzw verständliche Beispiele fehlen. 
+
+Node-Red scheint sehr cool zu sein.
 ## Lab
 ### Lab 1
 [Lab 1 Link](https://github.com/Witzeneder/IoT/blob/master/%C3%9Cbungen/15_Nov_2018/Instructions.md)
