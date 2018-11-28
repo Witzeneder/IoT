@@ -22,5 +22,8 @@ Done with dashboard nodes.
 What kind of technology did the electirc engineers prefer?
 
 ## What features would you like to see in an IoT Framework?
-* Good documentation and turotials
+* good documentation 
+* turotials
 * open source
+* testable
+* GUI
