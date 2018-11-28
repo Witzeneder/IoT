@@ -37,5 +37,7 @@ Move switch from Admin to test group
 * testing
 
 Featurs form UlnoIoT i am missing:
-* documentation?
+* documentation is not that good?
+* the system doesnt work the whole time
+
 ulnoIoT has 2 features i would like to see in an IoT Framework. -> 66,6% 
