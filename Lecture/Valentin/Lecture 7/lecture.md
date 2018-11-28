@@ -1,5 +1,6 @@
 # Lecturenotes
-ULNOIOT Examples
+
+### ULNOIOT Examples/Questions
 ###### Which topic needs to be called to switch on the coffee machine?
 * kitchen/coffee-machine/switch/set on
 ###### Which topic needs to be called to set all lights in the living room to be blue?
@@ -23,3 +24,16 @@ Order is etc/ulnoiot.conf, config.txt, system.conf, node.conf -> every conf is a
 
 ###### Preferred features percentage
 65%
+
+### PlatformIO
+PlatformIO is an open source ecosystem for IoT development.
+###### Definition
+PlatformIO is a extension to develop software for IoT.
+###### Points
+* 29 platforms
+* 17 frameworks
+* 566 boards
+* > 5.500 libraries
+* Command line tool
+* Cross platform IDE and unified debugger
+* portable to many different text IDEs 
