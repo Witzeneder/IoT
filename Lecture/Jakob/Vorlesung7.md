@@ -20,5 +20,40 @@ configure external linux. Dont have a raspi
 config.txt and ulnoiot.conf on boot set environment variables, then read system.conf, then read node.conf
 all can contain same variables
 
+### UlnoIoT recap
+see https://github.com/Witzeneder/IoT/blob/master/Lecture/Jakob/Vorlesung5.md
+
+### PlatformIO
+* open source
+* cross platform
+* debugger - costs money
+* remote testing - costs money
+* firmware updates
+* many examples
+* colorful command line output
+* IDE integration
+* library manager
+
+### UlnoIoT steps when deploy in a node-folder?
+* read configuration file
+* create compile cache
+* rebuild firmware and remotly flash
+* searching for an adress and flash
+* compile
+* see if serial -> then search board and flash
+* node will be overritten and new node exists
+* if deploy from parent folder then all subnodes are deployed
+
+### Why can only one deploy run at once?
+uses same compile cache.
+
+### What is the benefit of that restriction
+takes a very long time for initialize compile -> speed
+
+### Device
+subdevice are topics
+
+### analog driver
+* high, low, threshold, precision
 
 
