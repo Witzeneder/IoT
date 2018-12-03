@@ -51,6 +51,9 @@ IoT hat sicher noch viele Sicherheitsrisiken, jedoch finde ich, dass der Mehrwer
 [Lab 5 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/22_Nov_2018/instruction.md)
 ### Lab 6
 [Lab 6 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/22_Nov_2018/instruction.md)
+### Lab 7
+[Lab 7 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/28_Nov_2018/protocol.md)
+
 
 ## Projects
 ### Project 1
