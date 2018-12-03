@@ -17,12 +17,23 @@ analog(hum).with_precision(10);
 ### Ultrasonic
 hcsr04(ulti, D1, D2).with_precision(10);
 
-* Oil -> values between 14mm - 34mm (maybe the cup is causing this)
-* Water -> 14mm
-* dirty Water -> 16mm
+* Oil -> values between 34mm
+* Water -> 32mm
+* dirty Water -> 35mm
 
 ### Time of flight
 
 * Oil -> 140mm
 * Water -> 130mm - 160mm
 * dirty Water -> 140mm
+
+
+### Summary
+
+The scale worked quite good for any kind of liquids. The only disadvantage is that it is quite huge comparing to the other sensors.
+
+The Raindrop Sensor is also a good solution for Water. It works like a float. The problem is, that the raindrop sensor cannot conduct electricity in oil.
+
+The Ultrasonic sensor works quite exactly. The only struggle is when using a small container, then the sensor might fail, if the liquid is too near.
+
+The Time of flight sensor was one of the best sensors, and worked on every liquid very exactly. Only with water the values varied a little bit.
