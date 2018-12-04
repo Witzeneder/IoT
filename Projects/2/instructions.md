@@ -22,7 +22,8 @@ hcsr04(ulti, D1, D2).with_precision(10);
 * dirty Water -> 35mm
 
 ### Time of flight
-
+Distance_Vl53l0x(tof, <optional long range bool>, optional highaccuracy bool>);
+                    
 * Oil -> 140mm
 * Water -> 130mm - 160mm
 * dirty Water -> 140mm

@@ -1,4 +1,4 @@
-# Lab 7, 28.11.2018
+# Lab 7
 We finished Project 1 with UlnoIoT.
 [Project 1 Link](https://github.com/Witzeneder/IoT/blob/master/Projects/1/instructions.md)
 
