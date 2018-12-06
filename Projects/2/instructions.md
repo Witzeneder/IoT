@@ -30,9 +30,11 @@ cup was filled with 10 cm of fluid in fh cup (diameter ca. 8cm on buttom) (every
 ### Ultrasonic
 `hcsr04(ulti, D1, D2).with_precision(10);`
 
-* Oil -> values between 34mm
-* Water -> 32mm
-* dirty Water -> 35mm
+* Oil -> 161mm
+* Water -> 166mm
+* dirty Water -> 165mm
+
+With lineal measured: 160mm
 
 ###### Thoughts
 
@@ -45,7 +47,9 @@ cup was filled with 10 cm of fluid in fh cup (diameter ca. 8cm on buttom) (every
 
 * Oil -> 140mm
 * Water -> 130mm - 160mm
-* dirty Water -> 140mm
+* dirty Water -> 145mm
+
+With lineal measured: 140mm
 
 ###### Thoughts
 
@@ -65,10 +69,12 @@ The Time of flight sensor was one of the best sensors, and worked on every liqui
 
 ##### Recommendations
 
-* Water -> Scale (costs?) or raindrop (sensor is vertical from bottom to top)
+* Water -> Scale (costs?) or (sensor is vertical from bottom to top)
 
 * Dirty Water -> Time of flight (if measurements vary a lot the water is dirty) or raindrop (sensor is vertical from bottom to top)
 
-* Oil -> Scale, no other sensor would be of good use
+* Oil -> Scale
+
+Ultrasonic can be used with all 3, if the tank isn't moved a lot and sensor has a certain distance to the liquid (to function properly)
 
 
