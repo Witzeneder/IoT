@@ -7,7 +7,9 @@
 * Water -> 238g
 * dirty Water -> 351g
 
-Scale is of good use when measuring the amount of used fluid, each fluid has its own weight factor which is needed to be able to calculate the volumne.
+###### Thoughts
+
+* Scale is of good use when measuring the amount of used fluid, each fluid has its own weight factor which is needed to be able to calculate the volumne.
 
 
 ### Raindrop
@@ -16,6 +18,8 @@ Scale is of good use when measuring the amount of used fluid, each fluid has its
 * Oil -> 1022 9/10 inside
 * Water -> 274 9/10 inside
 * dirty Water -> 272 9/10 inside
+
+###### Thoughts
 
 * This shows that the raindrop sensor is of very good use, when detecting any kind of water. 
 * On the other hand oil isn't detected since the sensor doesnt register it as "wet".
@@ -27,6 +31,8 @@ Scale is of good use when measuring the amount of used fluid, each fluid has its
 * Water -> 32mm
 * dirty Water -> 35mm
 
+###### Thoughts
+
 * The ultrasonic sensor is able to give the correct value, it doesn't matter which fluid is used. 
 * To get a valid value we took a lineal and put it on the cup to have a aid for measuring from the same distance.
 
@@ -37,6 +43,8 @@ Scale is of good use when measuring the amount of used fluid, each fluid has its
 * Oil -> 140mm
 * Water -> 130mm - 160mm
 * dirty Water -> 140mm
+
+###### Thoughts
 
 * The time of flight sensor is of good use with oil and dirty water (varies with +/-10mm), 
 * but when used clear water it varies +-30mm.
