@@ -61,3 +61,13 @@ The Raindrop Sensor is also a good solution for Water. It works like a float. Th
 The Ultrasonic sensor works quite exactly. The only struggle is when using a small container, then the sensor might fail, if the liquid is too near.
 
 The Time of flight sensor was one of the best sensors, and worked on every liquid very exactly. Only with water the values varied a little bit.
+
+###### Recommendations
+
+* Water -> Scale (costs?) or raindrop (sensor is vertical from bottom to top)
+
+* Dirty Water -> Time of flight (if measurements vary a lot the water is dirty) or raindrop (sensor is vertical from bottom to top)
+
+* Oil -> Scale, no other sensor would be of good use
+
+
