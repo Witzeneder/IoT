@@ -1,7 +1,7 @@
 # Project 2 - Protocol
 
-ulnoIoT used for project 2
-cup was filled with 10 cm of fluid in fh cup (diameter ca. 8cm on buttom) (every fluid water,dirty water, oil)
+* ulnoIoT used for project 2
+* cup was filled with 10 cm of fluid in fh cup (diameter ca. 8cm on buttom - every fluid water,dirty water, oil)
 
 ### Scale
 `hx711(scale, D1, D2, 450, false);`
