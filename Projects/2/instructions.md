@@ -1,5 +1,7 @@
 # Project 2 - Protocol
 
+ulnoIoT used for project 2
+
 ### Scale
 `hx711(scale, D1, D2, 450, false);`
 
