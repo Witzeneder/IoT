@@ -62,7 +62,7 @@ The Ultrasonic sensor works quite exactly. The only struggle is when using a sma
 
 The Time of flight sensor was one of the best sensors, and worked on every liquid very exactly. Only with water the values varied a little bit.
 
-###### Recommendations
+##### Recommendations
 
 * Water -> Scale (costs?) or raindrop (sensor is vertical from bottom to top)
 
