@@ -1,19 +1,18 @@
 # Project 2 - Protocol
 
 * ulnoIoT used for project 2
-* cup was filled with 10 cm of fluid in fh cup (diameter ca. 8cm on buttom - every fluid water,dirty water, oil)
+* cup was filled with 5 cm of fluid in fh cup (diameter ca. 6,5cm on buttom - every fluid water,dirty water, oil)
 
 ### Scale
 `hx711(scale, D1, D2, 450, false);`
 
-* Oil -> 109g
+* Oil -> 380g
 * Water -> 238g
 * dirty Water -> 351g
 
 ###### Thoughts
 
-* Scale is of good use when measuring the amount of used fluid, each fluid has its own weight factor which is needed to be able to calculate the volumne.
-
+* Scale is of good use when measuring the amount of used fluid, each fluid has its own weight factor which is needed to be able to calculate the volume.
 
 ### Raindrop
 `analog(hum).with_precision(10);`
@@ -24,7 +23,7 @@
 
 ###### Thoughts
 
-* This shows that the raindrop sensor is of very good use, when detecting any kind of water. 
+* This shows that the raindrop sensor is of very good use, when detecting any kind of water.
 * On the other hand oil isn't detected since the sensor doesnt register it as "wet".
 
 ### Ultrasonic
@@ -36,9 +35,28 @@
 
 With lineal measured: 160mm
 
+### Reed Switch
+`input(reed_switch, D3);`
+
+* magnetic field
+* Oil -> on/off check
+* Water -> on/off check
+* dirty Water -> on/off check
+
+* magnet on water level and when water level to high -> magnet close to sensor -> off check
+
+### Tilt Switch
+`input(tilt_switch, D3);`
+
+* Oil -> on/off check
+* Water -> on/off check
+* dirty Water -> on/off check
+
+* sensor detects movement -> when water isn't static (moves around) it senses it and reports.
+
 ###### Thoughts
 
-* The ultrasonic sensor is able to give the correct value, it doesn't matter which fluid is used. 
+* The ultrasonic sensor is able to give the correct value, it doesn't matter which fluid is used.
 * To get a valid value we took a lineal and put it on the cup to have a aid for measuring from the same distance.
 
 
@@ -53,7 +71,7 @@ With lineal measured: 140mm
 
 ###### Thoughts
 
-* The time of flight sensor is of good use with oil and dirty water (varies with +/-10mm), 
+* The time of flight sensor is of good use with oil and dirty water (varies with +/-10mm),
 * but when used clear water it varies +-30mm.
 * To get a valid value we took a lineal and put it on the cup to have a aid for measuring from the same distance.
 
@@ -76,5 +94,3 @@ The Time of flight sensor was one of the best sensors, and worked on every liqui
 * Oil -> Scale
 
 Ultrasonic can be used with all 3, if the tank isn't moved a lot and sensor has a certain distance to the liquid (to function properly)
-
-
