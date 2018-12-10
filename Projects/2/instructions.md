@@ -86,6 +86,14 @@ With lineal measured: 140mm
 
 ### Summary
 
+|             |SCALE|RAINDROP|ULTRASONIC|TIME OF FLIGHT
+|:------------- |:-------------:| :-----:| :----:|:----:
+| OIL         |380| 1022 | 161mm| 140mm
+| WATER       |380| 274 | 166mm | 130mm-160mm
+| DIRTY WATER |420| 272 | 165mm | 145mm
+
+
+
 The scale worked quite good for any kind of liquids. The only disadvantage is that it is quite huge comparing to the other sensors.
 
 The Raindrop Sensor is also a good solution for Water. It works like a float. The problem is, that the raindrop sensor cannot conduct electricity in oil.
