@@ -7,8 +7,12 @@
 `hx711(scale, D1, D2, 450, false);`
 
 * Oil -> 380g
-* Water -> 238g
-* dirty Water -> 351g
+* Water -> 380g
+* dirty Water -> 420g
+
+<img src="scale.jpeg"
+     alt="Scale"
+     style="float: left; margin-right: 10px;" />
 
 ###### Thoughts
 
@@ -44,6 +48,9 @@ With lineal measured: 160mm
 * dirty Water -> on/off check
 
 * magnet on water level and when water level to high -> magnet close to sensor -> off check
+<img src="reed.jpeg"
+     alt="Reed-Switch"
+     style="float: left; margin-right: 10px;" />
 
 ### Tilt Switch
 `input(tilt_switch, D3);`
@@ -53,7 +60,9 @@ With lineal measured: 160mm
 * dirty Water -> on/off check
 
 * sensor detects movement -> when water isn't static (moves around) it senses it and reports.
-
+<img src="tilt.jpeg"
+     alt="Tilt-Switch"
+     style="float: left; margin-right: 10px;" />
 ###### Thoughts
 
 * The ultrasonic sensor is able to give the correct value, it doesn't matter which fluid is used.
