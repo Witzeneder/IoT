@@ -23,3 +23,8 @@
 <img src="rec.PNG"
      alt="node-red"
      style="float: left; margin-right: 10px;" />
+
+
+#### TTN
+
+I tried to setup TTN for at least 3hours, with the given links from the lecture, specially the http://wiki.dragino.com/index.php?title=Connect_to_TTN. I couldn find the right example and tried nearly every one. Without success. Created an account in TTN but had no idea how to connect the device to the account?
