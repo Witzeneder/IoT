@@ -19,6 +19,6 @@ the function reacts and sends the value 1 to the ac channel and the ac-simulator
 
 [Code for ac-switch](https://github.com/Witzeneder/IoT/blob/master/%C3%9Cbungen/20_Nov_2018/acswitch.py)
 
-<img src="node-red.png"
+<img src="node-red.PNG"
      alt="node-red"
      style="float: left; margin-right: 10px;" />
