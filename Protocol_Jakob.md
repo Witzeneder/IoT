@@ -36,7 +36,17 @@ UlnoIoT ist komplex, aber integriert viele sensoren und ist einfach zu bedienen.
 ### Vorlesung 8
 [Vorlesung 8 Link](https://github.com/Witzeneder/IoT/blob/master/Lecture/Jakob/Vorlesung8.md)
 IoT hat sicher noch viele Sicherheitsrisiken, jedoch finde ich, dass der Mehrwert, welcher daraus generiert werden kann deutlich den Nachteilen überwiegt.
+### Vorlesung 9
+[Vorlesung 9 Link](https://github.com/Witzeneder/IoT/blob/master/Lecture/Jakob/Vorlesung9.md)
+Lora is very interesting, but seems to be not that popular yet. That may be a struggle.
 
+### Vorlesung 10
+[Vorlesung 10 Link](https://github.com/Witzeneder/IoT/blob/master/Lecture/Jakob/Vorlesung10.md)
+some of the projects are quite interesting. Sleep mode is very useful. Makes wemos even more powerful.
+
+### Vorlesung 11
+[Vorlesung 11 Link](https://github.com/Witzeneder/IoT/blob/master/Lecture/Jakob/Vorlesung11.md)
+Very nice to hear some of the guys from brazil. Very interesting, mayble too less time.
 
 ## Lab
 ### Lab 1
@@ -55,6 +65,14 @@ IoT hat sicher noch viele Sicherheitsrisiken, jedoch finde ich, dass der Mehrwer
 [Lab 7 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/28_Nov_2018/protocol.md)
 ### Lab 8
 [Lab 8 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/29_Nov_2018/protocol.md)
+### Lab 9
+[Lab 9 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/04_Dec_2018/protocol.md)
+### Lab 10
+[Lab 10 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/06_Dec_2018/instructions.md)
+### Lab 11
+[Lab 11 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/10_Dec_2018/lab.md)
+### Lab 12
+[Lab 12 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/11_Dec_2018/lab.md)
 
 ## Projects
 ### Project 1
