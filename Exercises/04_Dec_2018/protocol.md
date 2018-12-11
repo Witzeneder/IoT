@@ -6,3 +6,20 @@
 * In main.c you can change the channel and the size of the message
 
 * Alter following code (PICTURE)
+
+
+<img src="main.PNG"
+     alt="node-red"
+     style="float: left; margin-right: 10px;" />
+<img src="main2.PNG"
+     alt="node-red"
+     style="float: left; margin-right: 10px;" />
+<img src="main3.PNG"
+     alt="node-red"
+     style="float: left; margin-right: 10px;" />
+<img src="nodered.PNG"
+     alt="node-red"
+     style="float: left; margin-right: 10px;" />
+<img src="rec.PNG"
+     alt="node-red"
+     style="float: left; margin-right: 10px;" />
