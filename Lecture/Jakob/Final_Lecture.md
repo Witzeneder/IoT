@@ -19,12 +19,25 @@ Schinko, Weißenböck, Pranz, Koller
 ## Group INStock
 Pinkser, Krög, Hofer, Grüneis, Hubl, Hauptmann
 
-#### Good Things:
+#### Good Things: 
+* nice video, quite funny. 
+* cool idea with the app
 
 #### Bad Things:
+* nothing
 
 ## Group Smart Zoo
 Bär, Elsigan, Leidenfrost, Schiller
 
+#### Good Things: 
+* nice video
+
+#### Bad Things:
+* didn`t get exactly what it was all about. 
 
 ## Ranking:
+1. Group Smart Nursing Home
+2. Group InStock
+3. Group Smart Home
+4. Group Facility Management
+5. Group Smart Zoo
