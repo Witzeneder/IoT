@@ -86,3 +86,6 @@ Viele interessante Projekte sind im Kurs entstanden. Hätte mir nicht erwartet, 
 
 ### Project 2
 [Instruction](https://github.com/Witzeneder/IoT/blob/master/Projects/2/instructions.md)
+
+### Project 3
+[Instruction](https://github.com/Witzeneder/IoT/blob/master/Projects/3/instructions.md)
