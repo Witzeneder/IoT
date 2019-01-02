@@ -48,6 +48,10 @@ some of the projects are quite interesting. Sleep mode is very useful. Makes wem
 [Vorlesung 11 Link](https://github.com/Witzeneder/IoT/blob/master/Lecture/Jakob/Vorlesung11.md)
 Very nice to hear some of the guys from brazil. Very interesting, mayble too less time.
 
+### Vorlesung 12
+[Finale Vorlesung Link](https://github.com/Witzeneder/IoT/blob/master/Lecture/Jakob/Final_Lecture.md)
+Viele interessante Projekte sind im Kurs entstanden. Hätte mir nicht erwartet, dass so viel in so kurzer Zeit möglich ist. Auch das mit den Videos war eine super idee!
+
 ## Lab
 ### Lab 1
 [Lab 1 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/15_Nov_2018/Instructions.md)
