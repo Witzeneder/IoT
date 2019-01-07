@@ -73,3 +73,44 @@ Interesting lecture about different sensors and ulnoiot
 
 ###### Lab
 [Project 1](https://github.com/Witzeneder/IoT/tree/master/Projects/1)
+
+## 28 November 2018
+Seventh day of Lecture
+
+###### Lecture
+[Lecture Link](https://github.com/Witzeneder/IoT/blob/master/Lecture/Valentin/Lecture%207/)
+
+###### Lab
+[Project 1](https://github.com/Witzeneder/IoT/tree/master/Projects/1)
+
+* Finished Project 1, solved following problems:
+  * We needed to upgrade the UlnoIoT several times for all to work
+  * We deployed in the home archive of the OS, so the OS hung up and we had to install UlnoIoT fresh again and make all the setup
+  * The display showed in the beginning some random characters - in the end we fixed it, i dont know how.
+
+## 29 November 2018
+Eighth day of Lecture
+
+###### Lecture
+[Lecture Link](https://github.com/Witzeneder/IoT/tree/master/Lecture/Valentin/Lecture%208)
+
+###### Lab
+[Project 2](https://github.com/Witzeneder/IoT/blob/master/Projects/2/)
+
+* Finished Project 2, solved following problems:
+  *The cup for the ultrasonic sensor was too small, so the values were confusing
+  
+ ## 04 December 2018
+Ninth day of Lecture
+
+###### Lecture
+[Lecture Link](https://github.com/Witzeneder/IoT/tree/master/Lecture/Valentin/Lecture%209)
+
+###### Lab
+[Lab 9](https://github.com/Witzeneder/IoT/blob/master/Exercises/04_Dec_2018/protocol.md)
+
+* LoRa went smootlhy but with TTN we had a lot of problems stated in the documentation
+
+
+ 
+
