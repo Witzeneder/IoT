@@ -147,6 +147,11 @@ Twelfth day of Lecture
 ###### Lab
 [Lab 12 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/11_Dec_2018/lab.md)
 
+## 18 December 2018
+Presentations
+
+###### Listings
+[Projects](https://github.com/Witzeneder/IoT/tree/master/Lecture/Valentin/Lecture%2013)
 
 ## Project listings
 ### Project 1
@@ -159,3 +164,6 @@ Twelfth day of Lecture
 
 ### Project 3
 [Instruction](https://github.com/Witzeneder/IoT/blob/master/Projects/3/instructions.md)
+
+## After - thought
+Lecture and Lab style was new and although informative, it was a lot of work from time to time. Still refreshing to change the style of presentations.
