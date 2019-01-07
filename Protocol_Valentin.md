@@ -98,9 +98,9 @@ Eighth day of Lecture
 [Project 2](https://github.com/Witzeneder/IoT/blob/master/Projects/2/)
 
 * Finished Project 2, solved following problems:
-  *The cup for the ultrasonic sensor was too small, so the values were confusing
-  
- ## 04 December 2018
+  * The cup for the ultrasonic sensor was too small, so the values were confusing
+
+## 04 December 2018
 Ninth day of Lecture
 
 ###### Lecture
@@ -111,6 +111,51 @@ Ninth day of Lecture
 
 * LoRa went smootlhy but with TTN we had a lot of problems stated in the documentation
 
+## 06 December 2018
+Tenth day of Lecture
 
- 
+###### Lecture
+[Lecture Link](https://github.com/Witzeneder/IoT/tree/master/Lecture/Valentin/Lecture%2010)
 
+###### Lab
+[Lab 10 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/06_Dec_2018/instructions.md)
+
+## 10 December 2018
+Eleventh day of Lecture
+
+###### Lecture
+[Lecture Link](https://github.com/Witzeneder/IoT/tree/master/Lecture/Valentin/Lecture%2011)
+
+###### Lab
+[Lab 11 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/10_Dec_2018/lab.md)
+
+## 10 December 2018
+Twelfth day of Lecture
+
+###### Lecture
+[Lecture Link](https://github.com/Witzeneder/IoT/tree/master/Lecture/Valentin/Lecture%2012)
+
+###### Lab
+[Lab 12 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/11_Dec_2018/lab.md)
+
+## 11 December 2018
+Twelfth day of Lecture
+
+###### Lecture
+[Lecture Link](https://github.com/Witzeneder/IoT/tree/master/Lecture/Valentin/Lecture%2012)
+
+###### Lab
+[Lab 12 Link](https://github.com/Witzeneder/IoT/blob/master/Exercises/11_Dec_2018/lab.md)
+
+
+## Project listings
+### Project 1
+[Scenario](https://github.com/Witzeneder/IoT/blob/master/Projects/1/scenario.md)
+
+[Code](https://github.com/Witzeneder/IoT/blob/master/Projects/1/instructions.md)
+
+### Project 2
+[Instruction](https://github.com/Witzeneder/IoT/blob/master/Projects/2/instructions.md)
+
+### Project 3
+[Instruction](https://github.com/Witzeneder/IoT/blob/master/Projects/3/instructions.md)
